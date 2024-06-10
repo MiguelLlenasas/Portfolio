@@ -35,20 +35,21 @@ h1 {
 .texts a {
     color: #fff;
     text-decoration: none;
-    font-weight: 500;
-    margin-left: 30px;
-    transition: .3s;
+    font-style: 500;
+    margin-left: 2.5rem;
+    
 }
 
 .texts a:hover {
     color: #0da0a5;
+    transition: .3s;
 }
 
 #home {
     height: 100vh;
     background-image: url(image/my\ picture.jpg);
     background-repeat: no-repeat;
-    background-size: 270px;
+    background-size: 200px;
     background-position: 20cm;
     display: flex;
     align-items: center;
